@@ -32,9 +32,9 @@ if __name__ == '__main__':
     ])
 
     cm = np.array([
-        [1,1,1],
-        [1,1,1],
-        [1,1,1]
+        [0,1,1],
+        [1,0,1],
+        [1,1,0]
     ])
 
     labels = ('A', 'B', 'C')
@@ -47,7 +47,5 @@ if __name__ == '__main__':
     sys_irreducibility_analysis = pyphi.compute.sia(sys)
     print(sys_irreducibility_analysis)
 
-    print(sys_irreducibility_analysis.phi)
-    print(sys_irreducibility_analysis.cut)
-    print(len(sys_irreducibility_analysis.ces))
     render_controller = Render_Controller.RenderController(network, sys_irreducibility_analysis)
+
