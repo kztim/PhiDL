@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83af5f85-da3a-483f-a277-518140449525" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyphi.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModelInterpreter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/PhiDL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PhiDL.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Render_Controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Render_Controller.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Render_Controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/RenderController.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyphi.log" beforeDir="false" afterPath="$PROJECT_DIR$/pyphi.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +52,7 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.MAIN.executor": "Run",
+    "Python.Model_Interpreter.executor": "Run",
     "Python.Render_Controller.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
