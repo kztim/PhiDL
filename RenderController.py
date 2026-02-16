@@ -33,7 +33,6 @@ class RenderController():
                 color_map.append('lightblue')
                 print(node, sia.subsystem.node_indices)
 
-
         return color_map
 
     def __init__(self, network, sia):
